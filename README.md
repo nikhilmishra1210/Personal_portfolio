@@ -1,4 +1,2 @@
 # Personal_portfolio
-This is My Personal portfolio Website
-<br>
-Author-Nikhil Mishra
+The website is divided into several sections. The 'About Me' section provides a concise yet comprehensive overview of my background, skills, and passion for web development. The 'Portfolio' section is where I showcase a selection of my projects, ranging from responsive web designs to dynamic web applications. Each project is accompanied by a brief description, highlighting the technologies used and the impact it had.
